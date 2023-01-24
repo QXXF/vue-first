@@ -1,0 +1,1 @@
+export const ep = 'https://gi7f72j7le3j56p4xkm4xeh26m0izfxy.lambda-url.eu-west-1.on.aws/'
